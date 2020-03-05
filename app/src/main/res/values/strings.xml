@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FragmentsAndViews</string>
+
+    <!-- Button names -->
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="view_one">View 1</string>
+    <string name="view_two">View 2</string>
+
+    <!-- Fragment messages -->
+    <string name="hello_fragment_1">This is fragment 1</string>
+    <string name="hello_fragment_2">This is fragment 2</string>
+    <string name="hello_fragment_3">This is fragment 3</string>
+    <string name="view1">This is VIEW 1</string>
+    <string name="view2">This is VIEW 2</string>
+</resources>
